@@ -1,4 +1,5 @@
 # Sentiment Analysis API
+The files in this repository were used to train a Sentiment Analysis API on the airline_sentiment dataset.
 Details of the files are as follows:
 1) EntHire.ipynb: Contains code for reading the data, preprocessing the data, and training different models.
 2) enthirebestmodel.sav: The model that gave the best performance (Sklearn Adaboost classifier).
